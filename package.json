@@ -17,6 +17,7 @@
   "homepage": "https://github.com/kiyounggit/my_app#readme",
   "description": "",
   "dependencies": {
+    "ejs": "^2.4.1",
     "express": "^4.13.4"
   }
 }
